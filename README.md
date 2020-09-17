@@ -11,5 +11,5 @@ All my repos are my practice code.
 - 💬 Ask me about ...Anything
 - 📫 How to reach me: ...priteomg@gmail.com
 - 😄 Pronouns: ...He/Him
-- ⚡ Fun fact: ...
+
 
