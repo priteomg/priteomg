@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**priteomg/priteomg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+my name is Phariwud Paprakob ,I'm learning how to create a cool website with user friendly interface.
 
-Here are some ideas to get you started:
+All my repos are my practice code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 🔭 I’m currently working on ...Unemployee
+- 🌱 I’m currently learning ...React.js ,Front-End Dev skills
+- 👯 I’m looking to collaborate on ...React.js ,Front-End Dev
+- 🤔 I’m looking for help with ...AWS ,React Native
+- 💬 Ask me about ...Anything
+- 📫 How to reach me: ...priteomg@gmail.com
+- 😄 Pronouns: ...He/Him
 - ⚡ Fun fact: ...
--->
+
