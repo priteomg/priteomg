@@ -9,7 +9,7 @@ All my repos are my practice code.
 - 👯 I’m looking to collaborate on ...React.js ,Front-End Dev
 - 🤔 I’m looking for help with ...AWS ,React Native
 - 💬 Ask me about ...Anything
-- 📫 How to reach me: ...priteomg@gmail.com
+- 📫 How to reach me: priteomg@gmail.com
 - 😄 Pronouns: ...He/Him
 
 
